@@ -1,0 +1,19 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files (e.g., for VSCode, JetBrains)
+.vscode/
+.idea/
+
